@@ -1,7 +1,9 @@
 Hello Myself Navdeep this project implements a spam detection model using Logistic Regression on a dataset of labeled text messages. The model classifies text messages as either spam or ham.
 
-Requirement : pip install pandas 
+Requirement : pip install pandas
+
               pip install joblib
+              
               pip install scikit-learn
 
 Make sure your dataset (Task1.csv) is in same directory
