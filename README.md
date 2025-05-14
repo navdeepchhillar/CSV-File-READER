@@ -1,9 +1,9 @@
 Hello Myself Navdeep this project implements a spam detection model using Logistic Regression on a dataset of labeled text messages. The model classifies text messages as either spam or ham.
 
-Requirement : pip install pandas
+Requirement :
 
               pip install joblib
-              
+              pip install pandas
               pip install scikit-learn
 
 Make sure your dataset (Task1.csv) is in same directory
@@ -22,9 +22,9 @@ This Model is Evaluated using:
 -Confusion Matrix
 -Classification Report
 
-for model deployment we used
-#import joblib
-#model = joblib.load('spam_detection_model.pkl')
+for model deployment we used 
+import joblib
+model = joblib.load('spam_detection_model.pkl')
 
 Make sure follow me and for any issues 
 mail - navdeepchhillar1209@gmail.com
