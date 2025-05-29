@@ -8,9 +8,9 @@
     pip install pandas
     pip install scikit-learn
 
-Make sure your dataset (Task1.csv) is in same directory
+### Make sure your dataset (Task1.csv) is in same directory
 
-So this Machine Learning Project includes the following steps: 
+## So this Machine Learning Project includes the following steps: 
       
     -Data loading and preprocessing
     -Label encoding
@@ -20,17 +20,15 @@ So this Machine Learning Project includes the following steps:
     -Model evaluation (accuracy, confusion matrix, classification report)
     -Saving the trained model with joblib
 
-This Model is Evaluated using: 
+## This Model is Evaluated using: 
     
     -Accuracy
     -Confusion Matrix
     -Classification Report
 
-for model deployment we used 
+## For model deployment we used 
      
     import joblib
     model = joblib.load('spam_detection_model.pkl')
 
-Make sure follow me and for any issues mail on
-    
-    navdeepchhillar1209@gmail.com
+### That's it
