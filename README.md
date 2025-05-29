@@ -1,4 +1,6 @@
-Hello Myself Navdeep this project implements a spam detection model using Logistic Regression on a dataset of labeled text messages. The model classifies text messages as either spam or ham.
+Hello 
+
+Myself Navdeep this project implements a spam detection model using Logistic Regression on a dataset of labeled text messages. The model classifies text messages as either spam or ham.
 
 Requirement :
 
